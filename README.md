@@ -1,6 +1,8 @@
 
 # 🌀 MR-CATR: Motion-Residual Conflict-Aware Time-Reversal Sampler for Generative Inbetweening
 
+**Published at ICML 2026.**
+
 This repository provides the official PyTorch implementation of **MR-CATR**, a plug-and-play **inference-time sampler** for **generative video inbetweening**.
 MR-CATR builds upon **Stable Video Diffusion (SVD-XT)** and improves time-reversal sampling by explicitly resolving **motion-prior conflicts** between start- and end-conditioned paths.
 
