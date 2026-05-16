@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.bak
+
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+*.ckpt
+*.pt
+*.pth
+*.safetensors
+*.onnx
+
+logs/
+runs/

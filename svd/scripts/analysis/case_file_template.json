@@ -1,0 +1,12 @@
+[
+  {
+    "name": "my_case_001",
+    "start": "/absolute/path/to/my_case_001/00000.jpg",
+    "end": "/absolute/path/to/my_case_001/00024.jpg"
+  },
+  {
+    "name": "my_case_002",
+    "start": "/absolute/path/to/my_case_002/00000.jpg",
+    "end": "/absolute/path/to/my_case_002/00024.jpg"
+  }
+]
